@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,laravel,git,github,vscode" />
+</p>
