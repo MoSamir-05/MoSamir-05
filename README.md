@@ -12,7 +12,7 @@ Learning by building real-world projects 🚀
 - 🎓 MCA Student  
 - 💻 Full Stack Web Developer (Student)  
 - 🛠 PHP, MySQL, Laravel focused  
-- 🏢 Backup support exposure at SRF  
+- 🏢 Backup support exposure at SRF.  
 - 🌱 Currently improving backend & full stack skills  
 
 ---
