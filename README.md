@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Mo+Samir!;+Backend+Engineer+in+the+making;+PHP+%7C+Laravel+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Mo+Samir!;+Web+Developer+in+the+making;+PHP+%7C+Laravel+Specialist" />
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-BACKEND%20ENGINEER-000000?style=for-the-badge&labelColor=6C5CE7&color=2D3436" />
+  <img src="https://img.shields.io/badge/-WEB%20DEVELOPER-000000?style=for-the-badge&labelColor=6C5CE7&color=2D3436" />
   <img src="https://img.shields.io/badge/-MCA%20GRADUATE-000000?style=for-the-badge&labelColor=00B894&color=2D3436" />
   <img src="https://img.shields.io/badge/-FULL%20STACK%20DEVELOPER-000000?style=for-the-badge&labelColor=E17055&color=2D3436" />
 </div>
@@ -28,11 +28,11 @@
 </p>
 
 - 🎓 **MCA Graduate** specializing in **Web Technologies & Database Systems**
-- 💻 **Backend-Focused Developer** with strong expertise in **PHP & Laravel Ecosystem**
+- 💻 **Web Developer** with strong expertise in **PHP & Laravel Ecosystem**
 - 🏢 **Industry Experience:** Backup Support Systems at **SRF Limited**
 - 🔐 **Specialization:** Building **Secure Authentication Systems** & **RBAC Implementation**
-- 🌱 **Current Focus:** Mastering **Backend Architecture Patterns** & **Scalable System Design**
-- ⚡ **Engineering Philosophy:** Clean Code ➡️ Robust Systems ➡️ Scalable Solutions
+- 🌱 **Current Focus:** Mastering **Web Application Architecture** & **Scalable System Design**
+- ⚡ **Development Philosophy:** Clean Code ➡️ Robust Systems ➡️ Scalable Solutions
 - ♟️ **Beyond Coding:** Chess enthusiast & Complex problem-solving addict
 
 <br clear="right"/>
@@ -94,7 +94,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> <span style="background: linear-gradient(90deg, #6C5CE7, #E17055); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured Engineering Projects</span>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> <span style="background: linear-gradient(90deg, #6C5CE7, #E17055); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured Projects</span>
 
 <div align="center">
   <table>
@@ -183,7 +183,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> <span style="background: linear-gradient(90deg, #FDCB6E, #E17055); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GitHub Engineering Metrics</span>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> <span style="background: linear-gradient(90deg, #FDCB6E, #E17055); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GitHub Stats</span>
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MoSamir-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=6C5CE7&icon_color=00B894" />
@@ -216,7 +216,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"/> <span style="background: linear-gradient(90deg, #E17055, #FDCB6E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Professional Network</span>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"/> <span style="background: linear-gradient(90deg, #E17055, #FDCB6E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect</span>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoSamir-05&label=PROFILE+VIEWS&color=6C5CE7&style=for-the-badge" />
@@ -228,20 +228,8 @@
   <a href="mailto:mo.samir.sitponwala@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D3436" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D3436" />
-  </a>
   <a href="https://github.com/MoSamir-05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3436" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2D3436" />
-  </a>
-  <a href="https://stackoverflow.com/users/yourid">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=2D3436" />
-  </a>
-  <a href="https://dev.to/yourprofile">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=2D3436" />
   </a>
 </div>
 
@@ -258,7 +246,7 @@
 </div>
 
 <p align="center">
-  <b>🚀 Engineering clean code, building scalable solutions, and constantly pushing the boundaries of backend development.</b>
+  <b>🚀 Building clean, scalable web applications and constantly pushing the boundaries of what I can create.</b>
 </p>
 
 <p align="center">
