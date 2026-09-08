@@ -1,305 +1,205 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Mo+Samir!;+Web+Developer+in+the+making;+PHP+%7C+Laravel+Specialist" />
-</h1>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/-WEB%20DEVELOPER-000000?style=for-the-badge&labelColor=6C5CE7&color=2D3436" />
-  <img src="https://img.shields.io/badge/-MCA%20GRADUATE-000000?style=for-the-badge&labelColor=00B894&color=2D3436" />
-  <img src="https://img.shields.io/badge/-FULL%20STACK%20DEVELOPER-000000?style=for-the-badge&labelColor=E17055&color=2D3436" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=%24+whoami;Mo+Samir+%E2%80%94+Web+Developer;%24+cat+skills.txt;PHP+%7C+Laravel+%7C+MySQL" />
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
+```bash
+mo@dev:~$ cat about.txt
+```
 
-<!-- PROFESSIONAL SUMMARY -->
-<p align="center">
-  <i>"Crafting robust backend solutions with PHP & Laravel. Passionate about scalable architecture, secure authentication systems, and writing clean, maintainable code."</i>
-</p>
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> <span style="background: linear-gradient(90deg, #6C5CE7, #00B894); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Professional Profile</span>
-
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</p>
-
-- 🎓 **MCA Graduate** specializing in **Web Technologies & Database Systems**
-- 💻 **Web Developer** with strong expertise in **PHP & Laravel Ecosystem**
-- 🏢 **Industry Experience:** Backup Support Systems at **SRF Limited**
-- 🔐 **Specialization:** Building **Secure Authentication Systems** & **RBAC Implementation**
-- 🌱 **Current Focus:** Mastering **Web Application Architecture** & **Scalable System Design**
-- ⚡ **Development Philosophy:** Clean Code ➡️ Robust Systems ➡️ Scalable Solutions
-- ♟️ **Beyond Coding:** Chess enthusiast & Complex problem-solving addict
-
-<br clear="right"/>
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> <span style="background: linear-gradient(90deg, #E17055, #FDCB6E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Technical Arsenal</span>
-
-### 🎨 Frontend Craftsmanship
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=2D3436" />
-</p>
-
-### ⚙️ Backend Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=2D3436" />
-</p>
-
-### 🗄️ Database Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D3436" />
-</p>
-
-### 🛠️ Development Ecosystem
-<p align="center">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2D3436" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=2D3436" />
-</p>
-
-<!-- SKILL PROGRESS INDICATORS -->
-<p align="center">
-  <img src="https://progress-bar.dev/90/?title=PHP&width=120&color=6C5CE7" />
-  <img src="https://progress-bar.dev/85/?title=Laravel&width=120&color=00B894" />
-  <img src="https://progress-bar.dev/88/?title=MySQL&width=120&color=E17055" />
-  <img src="https://progress-bar.dev/75/?title=JavaScript&width=120&color=FDCB6E" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> <span style="background: linear-gradient(90deg, #6C5CE7, #E17055); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured Projects</span>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏠 ALL HOME SERVICES</h3>
-        <div align="center">
-          <img src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" width="80">
-        </div>
-        <p align="center">
-          <strong>Enterprise Service Booking Platform</strong><br>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        </p>
-        <p align="left">
-          ✅ Advanced authentication & authorization system<br>
-          ✅ Dynamic service booking with real-time availability<br>
-          ✅ Comprehensive admin dashboard with analytics<br>
-          ✅ Secure payment gateway integration ready
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔐 OTP Verification System</h3>
-        <div align="center">
-          <img src="https://cdn-icons-png.flaticon.com/512/3064/3064155.png" width="80">
-        </div>
-        <p align="center">
-          <strong>Secure 2FA Authentication Solution</strong><br>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/AJAX-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        </p>
-        <p align="left">
-          ✅ Time-based OTP generation & validation<br>
-          ✅ Session management with security best practices<br>
-          ✅ Rate limiting & brute force protection<br>
-          ✅ SMS/Email gateway integration architecture
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧑‍💼 RBAC Admin Panel</h3>
-        <div align="center">
-          <img src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png" width="80">
-        </div>
-        <p align="center">
-          <strong>Role-Based Access Control System</strong><br>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        </p>
-        <p align="left">
-          ✅ Multi-role permission hierarchy<br>
-          ✅ Dynamic menu rendering based on roles<br>
-          ✅ Audit logs & activity tracking<br>
-          ✅ Secure password hashing & reset flows
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📘 Academic Repository</h3>
-        <div align="center">
-          <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="80">
-        </div>
-        <p align="center">
-          <strong>MCA Curriculum Implementations</strong><br>
-          <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Web_Dev-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/Algorithms-00B894?style=flat-square&logo=thealgorithms&logoColor=white" />
-        </p>
-        <p align="left">
-          ✅ Database normalization projects<br>
-          ✅ Algorithm implementations in PHP/Python<br>
-          ✅ Full-stack mini-projects with documentation<br>
-          ✅ Best coding practices & design patterns
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧮 Loan Calculator</h3>
-        <div align="center">
-          <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80">
-        </div>
-        <p align="center">
-          <strong>Interactive EMI & Loan Calculation Tool</strong><br>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        </p>
-        <p align="left">
-          ✅ Real-time EMI & interest calculation<br>
-          ✅ Clean, responsive UI<br>
-          ✅ Dynamic input validation<br>
-          🔗 <a href="https://mosamir-05.github.io/LoanCalc/">Live Demo</a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🌐 Portfolio Website</h3>
-        <div align="center">
-          <img src="https://cdn-icons-png.flaticon.com/512/2620/2620576.png" width="80">
-        </div>
-        <p align="center">
-          <strong>Personal Developer Portfolio</strong><br>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </p>
-        <p align="left">
-          ✅ Showcases skills, projects & experience<br>
-          ✅ Responsive design across devices<br>
-          ✅ Contact & resume sections<br>
-          🔗 <a href="https://mosamir-05.github.io/my_portfolio/">Live Demo</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+```
+> Name        : Mo Samir
+> Role        : Web Developer (PHP / Laravel Specialist)
+> Education   : MCA Graduate — Web Technologies & Database Systems
+> Experience  : Backup Support Systems @ SRF Limited
+> Focus       : Secure Auth Systems, RBAC, Scalable Backend Architecture
+> Hobby       : Chess ♟️ | Debugging at 2 AM 🐛
+> Status      : [ONLINE] Building things, breaking things, fixing things.
+```
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> <span style="background: linear-gradient(90deg, #FDCB6E, #E17055); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GitHub Stats</span>
+![](https://img.shields.io/badge/-WEB_DEVELOPER-0D1117?style=flat-square&labelColor=0D1117&color=39FF14&logoColor=39FF14)
+![](https://img.shields.io/badge/-MCA_GRADUATE-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![](https://img.shields.io/badge/-FULL_STACK-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MoSamir-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=6C5CE7&icon_color=00B894" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSamir-05&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=6C5CE7" />
 </div>
 
 <br/>
 
+```bash
+mo@dev:~$ ls tech_stack/
+```
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**`frontend/`**
+```
+HTML5 · CSS3 · JavaScript
+Bootstrap · jQuery · Tailwind
+```
+
+**`backend/`**
+```
+PHP · Laravel · Node.js
+Python · REST APIs
+```
+
+</td>
+<td valign="top" width="50%">
+
+**`database/`**
+```
+MySQL · MongoDB
+SQLite · PostgreSQL
+```
+
+**`tools/`**
+```
+Git · GitHub · Docker
+VSCode · Postman · Composer · Linux
+```
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoSamir-05&theme=tokyonight&border_radius=15&background=0D1117&ring=6C5CE7&fire=E17055&currStreakLabel=00B894" />
+
+`PHP`         ██████████████████░░ 90%
+`Laravel`     █████████████████░░░ 85%
+`MySQL`       ██████████████████░░ 88%
+`JavaScript`  ███████████████░░░░░ 75%
+
 </div>
 
 <br/>
 
+```bash
+mo@dev:~$ ls -la projects/
+```
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**`🏠 all-home-services/`**
+> Enterprise service booking platform
+`PHP` `MySQL` `Bootstrap`
+- Auth & authorization system
+- Real-time service booking
+- Admin dashboard w/ analytics
+- Payment gateway ready
+
+</td>
+<td width="50%" valign="top">
+
+**`🔐 otp-verification/`**
+> Secure 2FA authentication system
+`PHP` `AJAX` `MySQL`
+- Time-based OTP generation
+- Secure session management
+- Rate limiting & brute-force guard
+- SMS/Email gateway architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`🧑‍💼 rbac-admin-panel/`**
+> Role-based access control system
+`Laravel` `MySQL` `Bootstrap`
+- Multi-role permission hierarchy
+- Dynamic role-based menus
+- Audit logs & activity tracking
+- Secure hashing & reset flows
+
+</td>
+<td width="50%" valign="top">
+
+**`📘 academic-repo/`**
+> MCA curriculum implementations
+`DBMS` `Web Dev` `Algorithms`
+- Database normalization projects
+- Algorithms in PHP / Python
+- Full-stack mini-projects
+- Clean code & design patterns
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`🧮 loan-calculator/`**
+> Interactive EMI & loan calculation tool
+`JavaScript` `HTML5` `CSS3`
+- Real-time EMI & interest calc
+- Clean, responsive UI
+- Dynamic input validation
+- 🔗 [`./run --live`](https://mosamir-05.github.io/LoanCalc/)
+
+</td>
+<td width="50%" valign="top">
+
+**`🌐 portfolio/`**
+> Personal developer portfolio
+`HTML5` `CSS3` `JavaScript`
+- Skills, projects & experience
+- Fully responsive design
+- Contact & resume sections
+- 🔗 [`./run --live`](https://mosamir-05.github.io/my_portfolio/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```bash
+mo@dev:~$ git log --stats
+```
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoSamir-05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="90%" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MoSamir-05&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=6&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSamir-05&layout=compact&langs_count=8&theme=chartreuse-dark&border_radius=6&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoSamir-05&theme=dark&border_radius=6&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/activity-gif.gif?raw=true" width="25px"/> <span style="background: linear-gradient(90deg, #00B894, #6C5CE7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Development Activity</span>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoSamir-05&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=6C5CE7&line=00B894&point=E17055" width="95%"/>
-</p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"/> <span style="background: linear-gradient(90deg, #E17055, #FDCB6E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect</span>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoSamir-05&label=PROFILE+VIEWS&color=6C5CE7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/MoSamir-05?label=FOLLOWERS&style=for-the-badge&color=00B894" />
-  <img src="https://img.shields.io/github/stars/MoSamir-05?label=STARS&style=for-the-badge&color=E17055" />
-</p>
-
-<div align="center">
-  <a href="mailto:mo.samir.sitponwala@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D3436" />
-  </a>
-  <a href="https://github.com/MoSamir-05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3436" />
-  </a>
-  <a href="https://mosamir-05.github.io/my_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2D3436?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6C5CE7" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoSamir-05&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="95%"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117" width="80%" />
-</div>
-
----
+```bash
+mo@dev:~$ cat contact.txt
+```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+[![Gmail](https://img.shields.io/badge/mail-mo.samir.sitponwala%40gmail.com-0D1117?style=flat-square&labelColor=0D1117&color=39FF14&logo=gmail&logoColor=39FF14)](mailto:mo.samir.sitponwala@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-MoSamir--05-0D1117?style=flat-square&labelColor=0D1117&color=39FF14&logo=github&logoColor=39FF14)](https://github.com/MoSamir-05)
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-0D1117?style=flat-square&labelColor=0D1117&color=39FF14&logo=googlechrome&logoColor=39FF14)](https://mosamir-05.github.io/my_portfolio/)
+
+<img src="https://komarev.com/ghpvc/?username=MoSamir-05&label=visitors&color=39FF14&style=flat-square&labelColor=0D1117" />
+
 </div>
 
-<p align="center">
-  <b>🚀 Building clean, scalable web applications and constantly pushing the boundaries of what I can create.</b>
-</p>
+<br/>
 
-<p align="center">
-  <i>Let's collaborate on innovative projects that solve real-world problems.</i>
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768785b37755c6b5c6a4a2f/bottom_header.svg" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Built%20with%20Laravel%20Passion-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Powered%20by%20PHP%20Excellence-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Mo%20Samir%20%E2%9A%A1-2D3436?style=flat-square" />
-</p>
+```bash
+mo@dev:~$ echo $STATUS
+> Building clean, scalable web applications. Always shipping.
+mo@dev:~$ _
+```
