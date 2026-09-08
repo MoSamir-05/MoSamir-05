@@ -174,6 +174,44 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧮 Loan Calculator</h3>
+        <div align="center">
+          <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="80">
+        </div>
+        <p align="center">
+          <strong>Interactive EMI & Loan Calculation Tool</strong><br>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </p>
+        <p align="left">
+          ✅ Real-time EMI & interest calculation<br>
+          ✅ Clean, responsive UI<br>
+          ✅ Dynamic input validation<br>
+          🔗 <a href="https://mosamir-05.github.io/LoanCalc/">Live Demo</a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 Portfolio Website</h3>
+        <div align="center">
+          <img src="https://cdn-icons-png.flaticon.com/512/2620/2620576.png" width="80">
+        </div>
+        <p align="center">
+          <strong>Personal Developer Portfolio</strong><br>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        </p>
+        <p align="left">
+          ✅ Showcases skills, projects & experience<br>
+          ✅ Responsive design across devices<br>
+          ✅ Contact & resume sections<br>
+          🔗 <a href="https://mosamir-05.github.io/my_portfolio/">Live Demo</a>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -230,6 +268,9 @@
   </a>
   <a href="https://github.com/MoSamir-05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3436" />
+  </a>
+  <a href="https://mosamir-05.github.io/my_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2D3436?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6C5CE7" />
   </a>
 </div>
 
